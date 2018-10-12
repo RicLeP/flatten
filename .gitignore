@@ -4,3 +4,9 @@ vendor
 
 # Testing
 storage
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/misc.xml
+.idea/flatten.iml
+.idea/composerJson.xml
+.idea/modules.xml
