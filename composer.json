@@ -13,6 +13,12 @@
       "email": "ehtnam6@gmail.com"
     }
   ],
+	"repositories":[
+		{
+			"type": "vcs",
+			"url": "https://github.com/iandroogmans/philf-setting"
+		}
+	],
   "require": {
     "illuminate/container": "~4",
     "illuminate/support": "~4",
